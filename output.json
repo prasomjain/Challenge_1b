@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "input_documents": [
+            "sample/travel/South of France - Cities.pdf",
+            "sample/travel/South of France - Cuisine.pdf",
+            "sample/travel/South of France - History.pdf",
+            "sample/travel/South of France - Restaurants and Hotels.pdf",
+            "sample/travel/South of France - Things to Do.pdf"
+        ],
+        "persona": "Travel Planner",
+        "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+        "processing_timestamp": "2025-07-26T02:36:52.934099"
+    },
+    "extracted_sections": [
+        {
+            "Document": "sample/travel/South of France - Things to Do.pdf",
+            "Page number": 13,
+            "Section title": "Introduction",
+            "Importance_rank": 1
+        },
+        {
+            "Document": "sample/travel/South of France - Restaurants and Hotels.pdf",
+            "Page number": 14,
+            "Section title": "Introduction",
+            "Importance_rank": 2
+        },
+        {
+            "Document": "sample/travel/South of France - Cities.pdf",
+            "Page number": 14,
+            "Section title": "Introduction",
+            "Importance_rank": 3
+        },
+        {
+            "Document": "sample/travel/South of France - Cuisine.pdf",
+            "Page number": 8,
+            "Section title": "Introduction",
+            "Importance_rank": 4
+        },
+        {
+            "Document": "sample/travel/South of France - History.pdf",
+            "Page number": 12,
+            "Section title": "Introduction",
+            "Importance_rank": 5
+        }
+    ],
+    "sub_section_analysis": [
+        {
+            "Document": "sample/travel/South of France - Things to Do.pdf",
+            "Page Number": 13,
+            "Refined Text": ": Visit the Musée Picasso, housed in the Château Grimaldi. • Saint-Tropez : Explore the beautiful beaches and luxury beach clubs. Îles d'Hyères : Explore the stunning limestone cliffs and hidden coves of Calanques National Park. Mercantour National Park : Discover diverse wildlife and beautiful alpine landscapes."
+        },
+        {
+            "Document": "sample/travel/South of France - Restaurants and Hotels.pdf",
+            "Page Number": 14,
+            "Refined Text": "and friendly staff make it a great spot for a casual meal. • Le Bistrot du Paradou (Paris): A charming bistro offering a variety of traditional French dishes at reasonable prices. The lively setting and outdoor seating make it a great spot for a casual meal. • Le Café de la Plage (Arcachon): A family-friendly restaurant offering a variety of traditional French dishes. The lively setting and outdoor seating make it a great spot for a casual meal "
+        },
+        {
+            "Document": "sample/travel/South of France - Cities.pdf",
+            "Page Number": 14,
+            "Refined Text": "is a great place to explore the region's history, key attractions, cultural highlights, and unique characteristics. Whether you're planning a visit or simply want to learn more about the region, this guide will offer valuable insights into each city's charm and allure. Nice: The Jewel of the French Riviera History Nice, located on the French Riviera, has been a popular destination for centuries."
+        },
+        {
+            "Document": "sample/travel/South of France - Cuisine.pdf",
+            "Page Number": 8,
+            "Refined Text": ", and bouillabaisse, a chickpea flour pancake. Ratatouille is a refreshing salad with tuna, hard-boiled eggs, tomatoes, green beans, olives, and anchovies. • Socca: A chickpea flour pancake. • Socca: A thin, crispy pancake made from chickpea flour, and vinegar. • Socca: A thin, crispy pancake made from chickpea flour, and vinegar. • Socca: A thin, crispy pancake made from chic"
+        },
+        {
+            "Document": "sample/travel/South of France - History.pdf",
+            "Page Number": 12,
+            "Refined Text": "was founded by Greek sailors around 600 BC. Nice: The Oldest City in France Marseille, founded by Greek sailors around 600 BC, is the oldest city in France. This guide will take you through the history of major cities, famous historical sites, and other points of interest."
+        }
+    ]
+}
